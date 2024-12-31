@@ -1,0 +1,46 @@
+## 如何安装Elementor编辑器：Markdown指南
+
+### 什么是Elementor？
+
+Elementor是一款功能强大的WordPress页面构建器插件，它允许你以拖拽的方式创建自定义的网页布局，而无需编写任何代码。
+
+### 安装Elementor
+
+#### 1\. **登录WordPress后台**
+
+  * 进入你的WordPress网站后台。
+
+#### 2\. **前往插件页面**
+
+  * 在左侧菜单中找到“插件”，并点击“安装插件”。
+
+#### 3\. **搜索Elementor**
+
+  * 在搜索框中输入“Elementor”，然后点击搜索按钮。
+
+#### 4\. **安装Elementor插件**
+
+  * 在搜索结果中找到Elementor插件，点击“立即安装”，然后点击“激活”。
+
+### 激活Elementor
+
+  * 安装完成后，你可以在插件列表中看到已激活的Elementor。
+
+### 开始使用Elementor
+
+  * 创建新页面或编辑现有页面时，你将在编辑器选项中看到“编辑与Elementor”按钮。点击它即可进入Elementor的视觉编辑界面。
+
+### 使用Markdown与Elementor
+
+  * **Elementor主要用于可视化页面构建**，它更擅长处理布局、样式等视觉方面。
+  * **如果你想在Elementor中插入Markdown内容**，你可以：
+      * **创建Markdown块：** 一些高级Elementor模板或插件可能提供Markdown块，允许你直接输入Markdown语法。
+      * **使用短代码：** 创建一个自定义的短代码，用于显示Markdown内容。
+      * **外部引入Markdown：** 将Markdown文件托管在其他地方，然后使用Elementor的HTML元素引入。
+
+**注意：** Elementor本身并不是一个Markdown编辑器，它更专注于页面布局。如果你需要一个功能强大的Markdown编辑器，可以考虑搭配使用其他插件，比如WP-Markdown。
+
+### 总结
+
+Elementor是一款非常直观的页面构建器，可以帮助你快速创建漂亮的WordPress网站。虽然它本身不直接支持Markdown编辑，但你可以通过一些方法将Markdown内容集成到你的Elementor页面中。
+
